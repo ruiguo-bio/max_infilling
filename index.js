@@ -18,7 +18,7 @@ const {
 // max-api is only available when running this script from Max.
 const maxApi = require("max-api");
 
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "http://47.253.212.37:5000";
 
 
 const args = process.argv;
